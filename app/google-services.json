@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "279525555229",
+    "firebase_url": "https://beritakampus-88300-default-rtdb.firebaseio.com",
+    "project_id": "beritakampus-88300",
+    "storage_bucket": "beritakampus-88300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279525555229:android:725d97f2cb4e15c69a5af4",
+        "android_client_info": {
+          "package_name": "com.example.beritakampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yGVV8lQbZYAfPbvN5cA1KzL7z1SYZ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279525555229:android:97ee83327a61e5349a5af4",
+        "android_client_info": {
+          "package_name": "com.example.beritakampus2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yGVV8lQbZYAfPbvN5cA1KzL7z1SYZ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
